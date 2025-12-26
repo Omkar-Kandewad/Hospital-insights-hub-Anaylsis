@@ -1,21 +1,21 @@
 # Power-Bi-Hospital-insights-hub-Anaylsis
 HOSPITAL_INSIGHTS_HUB – Power BI Project
 
-Overview
+Overview :- 
 This Power BI report provides analytical insights into hospital operations and performance. The dashboard is designed to support healthcare decision-making by presenting key metrics related to patients, departments, services, and overall hospital efficiency.
 
-Project Objectives
+Project Objectives :- 
 •	Analyze hospital operational data
 •	Monitor key healthcare KPIs
 •	Identify trends in patient flow and services
 •	Support data-driven hospital management decisions
 
-Tools & Technologies
+Tools & Technologies :- 
 •	Power BI Desktop
 •	Power Query (M Language)
 •	DAX (Data Analysis Expressions)
 
-Data Preparation
+Data Preparation :-
 •	Hospital-related data imported into Power BI
 •	Data cleaning and transformation performed using Power Query Editor
 •	Steps include:
@@ -23,13 +23,13 @@ o	Data type validation
 o	Handling missing or inconsistent records
 o	Creating calculated columns as required
 
-Data Model
+Data Model :- 
 •	Central fact table representing hospital activity data
 •	Supporting dimension tables for departments, doctors, patients, time, and services (if applicable)
 •	Relationships defined using appropriate cardinality
 •	Cross-filter direction configured for accurate aggregations
 
-Measures & Calculations
+Measures & Calculations :-
 •	DAX measures created to calculate key hospital metrics, including:
 o	Total Patients
 o	Admissions and Discharges
@@ -37,16 +37,13 @@ o	Department-wise metrics
 o	Average length of stay (if applicable)
 •	Measures reused across multiple report visuals
 
-Report Features
+Report Features :-
 •	KPI cards for high-level hospital metrics
 •	Bar and column charts for departmental comparisons
 •	Line charts for trend analysis
 •	Tables and matrices for detailed insights
 •	Slicers for interactive filtering
 
-Security (Optional)
-•	Row-Level Security (RLS) can be implemented if required
-•	Role-based access supported in Power BI Service
 
-Conclusion
+Conclusion :- 
 This Power BI report delivers a centralized view of hospital performance and operations, enabling stakeholders to gain insights, track KPIs, and improve healthcare service delivery.
