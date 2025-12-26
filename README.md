@@ -7,6 +7,7 @@ This Power BI report provides analytical insights into hospital operations and p
 Project Objectives :- 
 
 •	Analyze hospital operational data
+
 •	Monitor key healthcare KPIs
 •	Identify trends in patient flow and services
 •	Support data-driven hospital management decisions
